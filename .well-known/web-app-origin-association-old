@@ -1,0 +1,11 @@
+{
+    "web_apps": [
+        {
+            "manifest": "https://jahn00.github.io/pwa/manifest.json",
+            "details": {
+                "paths": ["/*"],
+                "exclude_paths": ["/about"]
+            }
+        }
+    ]
+}
